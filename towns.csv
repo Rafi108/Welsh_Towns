@@ -1,0 +1,447 @@
+Town,Population
+Cardiff,447287
+Newport,306844
+Swansea,300352
+Wrexham,65692
+Tonypandy,62545
+Bridgend,58380
+Barry,54673
+Llanelli,49591
+Cwmbran,46915
+Rhyl/Prestatyn,46267
+Merthyr Tydfil,43820
+Caerphilly,41402
+Colwyn Bay,34284
+Ebbw Vale/Brynmawr/Nantyglo,33068
+Aberdare,31135
+Pontypridd,30457
+Penarth,27226
+Flint,26442
+Rhosllanerchrugog,25362
+Blackwood,24042
+Ammanford,23709
+Church Village/Llantwit Fardre,23277
+Maesteg,21001
+Gorseinon,20581
+Neath,19258
+Ystrad Mynach,19204
+Aberystwyth,18749
+Kinmel Bay/Abergele,18705
+Bangor,17988
+Connah's Quay,16774
+Chepstow,16169
+Carmarthen,15854
+Porthcawl,15672
+Llandudno,15371
+Risca,14958
+Tredegar,14855
+Abergavenny,14651
+"Ely, Cardiff",14603
+Haverfordwest,14596
+Llantrisant,14422
+Llantwit Major,14384
+Pyle,13701
+Milford Haven,13582
+Splott,13261
+Treharris,12352
+Bargoed,11900
+Holyhead,11431
+Newtown,11357
+Mountain Ash,11230
+Cil-y-coed,11200
+Bryn Pydew,11109
+Llanrumney,11060
+Abertillery,10946
+Bedwas,10758
+Monmouth,10110
+Mold,10058
+Pembroke Dock,9753
+Caernarfon,9730
+"Newbridge, Caerphilly",9590
+Tonyrefail,9317
+Pencoed,9166
+Pontarddulais,9073
+Llandaff,8997
+Caerleon,8747
+Rhymney,8537
+Denbigh,8514
+Burry Port,8310
+Brecon,8250
+Pembroke,7552
+Ferndale,7338
+Hirwaun,7247
+Brynna,6686
+Abertridwr,6504
+Radyr,6417
+Rhoose,6160
+Abercynon,5983
+Broughton,5974
+Welshpool,5948
+Undy,5914
+Coedpoeth,5723
+Gwaun-Cae-Gurwen/Brynamman,5692
+Blaenavon,5647
+Ogmore Vale/Nantymoel,5461
+Ruthin,5461
+Glyn-neath,5419
+Cwmavon,5336
+Llandrindod Wells,5309
+Cardigan,5301
+Gresford,5010
+New Tredegar,4966
+Menai Bridge,4958
+Llangefni,4864
+Bethesda,4735
+Hope,4706
+Tenby,4696
+Llay,4681
+Gilfach Goch,4395
+Glanaman,4384
+Pontycymer,4288
+Pwllheli,4076
+Glyncoch,4020
+Conwy,3873
+Cowbridge,3804
+Llanbradach,3746
+Rhuddlan,3709
+Neyland,3708
+Blaenau Ffestiniog,3662
+Llanfairfechan,3637
+Penyffordd,3554
+Aberfan,3547
+Ynysybwl,3503
+Murton,3500
+Llangollen,3466
+Fishguard,3419
+Saundersfoot,3361
+St Asaph,3355
+Llanrwst,3323
+Amlwch,3211
+Maerdy,3160
+Llanfair Pwllgwyngyll,3107
+Tywyn,3097
+Marshfield,3054
+Llanharry,3035
+Llanhilleth,2990
+Porthmadog,2981
+Lampeter,2970
+Llanidloes,2929
+Usk,2834
+Builth Wells,2829
+Llandybie,2813
+Kidwelly,2782
+Cwm,2739
+Talbot Green,2734
+Dolgellau,2688
+Llanddulas/Mynydd Marian,2674
+St Clears,2663
+Penmaenmawr,2535
+Creigiau,2380
+Machen,2362
+Valley,2361
+Cwmfelinfach/Ynysddu,2342
+Barmouth,2315
+Pentyrch,2287
+Y Felinheli,2284
+Leeswood,2282
+Narberth,2265
+Gilwern,2263
+Benllech,2236
+Bettws,2253
+Machynlleth,2235
+Seven Sisters,2123
+Tanyfron,2090
+Resolven,2068
+Llandovery,2065
+Crickhowell,2063
+Southgate,2004
+Underwood,1976
+Bala,1974
+Kilgetty,1968
+Johnston,1941
+Pen-clawdd,1935
+Llanrug,1916
+Newcastle Emlyn,1883
+Llanberis,1844
+Rhayader,1824
+Rogiet,1813
+Llandeilo,1795
+Bodelwyddan,1794
+Penygroes,1793
+Harlech,1762
+Criccieth,1753
+Llansanffraid Glan Conwy,1735
+Gwernaffield-y-Waun/Pantymwyn,1734
+Goodwick,1720
+Soughton,1710
+Higher Kinnerton,1697
+Pontyberem,1695
+Aberporth,1648
+Pontlliw,1645
+Mostyn,1606
+Crynant,1602
+Trimsaran,1584
+Three Crosses,1583
+Bow Street,1572
+Waunlwyd,1556
+Gaerwen,1551
+Penrhyndeudraeth,1546
+Pen-twyn (Caerphilly),1540
+Talybont (Gwynedd),1540
+Trearddur,1537
+Whitland,1514
+"Pont Rhyd-y-cyff, Llangynwyd]]",1505
+Markham,1495
+Llandysul,1484
+Pontyates,1449
+Govilon,1447
+Four Crosses,1438
+Aberaeron,1422
+St Davids,1408
+Cwmllynfell,1405
+Deiniolen,1379
+Nefyn,1373
+Beaumaris,1370
+Blaengwynfi,1362
+Treuddyn,1360
+Dwygyfylchi,1355
+Waungilwen,1338
+Cefn Cribwr,1324
+Penrhyn-coch,1316
+Penperlleni,1311
+Tregarth,1307
+Coedhirwaun,1299
+Borth,1269
+Talgarth,1268
+Gronant,1258
+Fochriw,1250
+Letterston,1245
+Guilsfield,1220
+Llanybydder,1218
+Tregaron,1213
+Pentlepoir,1211
+Caerwent,1201
+Waunfawr,1190
+Cemaes,1187
+Raglan,1183
+Bethel,1171
+Wenvoe,1155
+Gwernymynydd,1141
+Llanerchymedd,1133
+Grovesend,1131
+Bedlinog,1112
+Bangor-on-Dee,1110
+Pencader,1107
+Llanfyllin,1105
+Glyncorrwg,1096
+Pentre Halkyn,1094
+Marchwiel,1092
+Talysarn,1086
+Llanilar,1085
+Llanfair Caereinion,1055
+Bodedern,1051
+Trefechan,1042
+Llangynidr,1036
+Crofty,1012
+Rhosneigr,1008
+Deri,1006
+Northop,1001
+Trefnant,993
+Pont-henri,987
+Montgomery,986
+Llangeinor,973
+Overton-on-Dee,965
+Bontnewydd,951
+Caerwys,950
+Bryn,923
+Abermule,900
+Newborough,892
+Tregynon,892
+Argoed,891
+Tircoed,884
+Broad Haven,880
+Groeslon,880
+Ogmore-by-Sea,878
+Llangwm,875
+Llechryd,875
+Craig Cefn Parc,874
+Cwmann,872
+Llannon,869
+Cilgerran,865
+Llan Ffestiniog,864
+Henllan,862
+Morfa Nefyn,857
+Sageston,857
+Bwlchgwyn,855
+Newport (Pembrokeshire),851
+Llangoed,849
+Penally,848
+Ferryside,846
+Hook (Pembrokeshire),838
+New Brighton,838
+Pontrhydyfen,830
+Cosheston,828
+Laugharne,817
+Caersws,816
+Dinas Cross,815
+Trefor,814
+Glyn Ceiriog,804
+Kerry,785
+Abersoch,783
+Clyro,781
+Ewenny,768
+St Arvans,765
+Llanfihangel yn Nhowyn,757
+St Florence,756
+Pen-y-ffordd,748
+Llandyrnog,747
+Llansanffraid-ym-Mechain,747
+Forden,745
+Parc-Seymour,744
+St Brides Major,741
+Pant-yr-awel,734
+Maenclochog,731
+Carno,730
+Dyffryn Cellwen,727
+Aberdovey,725
+Fairbourne,721
+Rhigos,718
+Gwalchmai,715
+Waunllapria,714
+Pontrhydfendigaid,712
+Rhosybol,712
+Moelfre,710
+Solva,710
+Crymych,704
+Wick,698
+Abercrave,696
+New Quay,694
+Clydach,692
+Llanddona,691
+Groes-faen,685
+Llandre,679
+Clunderwen,677
+Rhostryfan,675
+Hill Mountain,673
+Carway,672
+Trelogan,671
+Flint Mountain,670
+Llangattock,662
+Tal-y-bont (Ceredigion),662
+Mynydd-bach/Shirenewton,657
+Blackmill,654
+Llangadog,650
+Llanrhystud,646
+Chwilog,640
+Llanddewi Brefi,640
+Pwllmeyric,635
+Jameston,634
+Llanwrtyd Wells,630
+Trawsfynydd,628
+Templeton,627
+Bryncrug,622
+Brawdy,620
+Stepaside,619
+Llanbedrog,613
+Rosemarket,613
+Lixwm,610
+Cross Lanes,609
+Froncysyllte,606
+Penley,606
+Trefriw,605
+Dwyran,603
+Llanon,598
+Ystrad Aeron,596
+Penysarn,595
+Lamphey,593
+Abergwili,589
+Llanfechell,589
+Crundale,584
+Meidrim,582
+Llandinam,576
+Rhosesmor,575
+Newbridge-on-Wye,566
+Pentraeth,557
+St Donat's,555
+Llandogo,547
+Cynwyd,542
+Heol-y-Cyw,538
+Coelbren,537
+Rhydymwyn,537
+Mynytho,536
+Ffairfach,534
+Llwyngwril,526
+Morfa Bychan,526
+Nantgaredig,524
+Penrhiw-llan,521
+Llandissilio,513
+Henfynyw,512
+Llanrhidian,512
+Llanellen,506
+Llanarth,503
+Spittal,494
+Bronllys,491
+Cwrt y Gollen,487
+St Ishmael's,478
+Corwen,477
+South Cornelly,471
+Penparc,470
+Roch,463
+Dolgarrog,446
+Llangybi,444
+Reynoldston,439
+Hundleton,435
+Blaenau,425
+Llansteffan,424
+Arddleen,418
+St Nicholas,417
+Catbrook,412
+Llanrhaeadr-ym-Mochnant,408
+Bryngwran,405
+Bonvilston,392
+Hengell Uchaf Estate,388
+Llanbedr,385
+Llangristiolus,384
+Llandevaud,376
+Norton (Powys),375
+Llangors,371
+The Narth,369
+Pontneddfechan,366
+Llanmadoc,365
+Pen-twyn (Monmouthshire),358
+Peniel,358
+Caergeiliog,355
+Tavernspite,349
+Talacre,347
+Pendine,346
+Waterston,335
+Crossgates,327
+Keeston,324
+Sudbrook,322
+Clarbeston Road,318
+Meifod,317
+Betws-yn-Rhos,312
+Llanbedr-Dyffryn-Clwyd,306
+Pentre Maelor,305
+Crymlyn Burrows,303
+Gwynfryn,303
+Clawdd Poncen,300
+Mynyddygarreg,299
+Cross Inn,292
+Cerrigydrudion,289
+Bull Bay,287
+Llanwrda,287
+Berriew,283
+St Fagans,282
+Llanyre,279
+Rhossili,278
+Capel Bangor,256
+Betws-Y-Coed,255
+Malltraeth,255
+Freshwater East,250
+Pentre-cwrt,247
+Sennybridge,230
+Port Eynon,226
+Talybont-on-Usk,219
+Ynysmaerdy,205
+Blaenannerch,131
